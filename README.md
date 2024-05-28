@@ -31,6 +31,10 @@ Bu sistem, PHP, MySQL, HTML, CSS ve Bootstrap teknolojileri kullanılarak geliş
 
 Projeye [buradan](http://ygys.infinityfreeapp.com) ulaşabilirsiniz.
 
+### Video Tanıtımı
+
+Projenin nasıl kullanıldığını gösteren tanıtım videosuna [YouTube'da buradan](https://youtu.be/kDM8Z-eIq0g) ulaşabilirsiniz.
+
 ## Katkıda Bulunma
 
 Projeye katkıda bulunmak isteyenler için pull request'ler kabul edilmektedir. İyileştirme ve hata düzeltmeleriniz için öncelikle bir issue açmanızı tavsiye ederim.
