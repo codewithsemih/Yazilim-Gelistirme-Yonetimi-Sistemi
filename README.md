@@ -18,7 +18,7 @@ Bu sistem, PHP, MySQL, HTML, CSS ve Bootstrap teknolojileri kullanılarak geliş
    - `$password` - Veritabanı şifresi
    - `$dbname` - Veritabanı adı
 4. PHPMyAdmin üzerinden `ygys_veritabani` adında bir veritabanı oluşturun.
-5. `vgys_veritabani.sql` dosyasını içe aktararak veritabanı tablolarınızı oluşturun.
+5. `ygys_veritabani.sql` dosyasını içe aktararak veritabanı tablolarınızı oluşturun.
 6. Projeyi bir web sunucusunda veya XAMPP üzerinde yerel bir sunucuda çalıştırın.
 
 ## Kullanım
